@@ -3,7 +3,7 @@
 Welcome to my Flutter UI project featuring the mesmerizing Parallax Effect! 🚀
 
 Follow me on Instagram: [@codingwithsouhail](https://www.instagram.com/codingwithsouhail/)
-![Screenshot](https://github.com/SOUHAILBENBRIK/first_post/blob/master/assets/logo.png)
+
 
 ## Project Overview
 
