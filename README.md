@@ -3,6 +3,7 @@
 Welcome to my Flutter UI project featuring the mesmerizing Parallax Effect! 🚀
 
 Follow me on Instagram: [@codingwithsouhail](https://www.instagram.com/codingwithsouhail/)
+![Screenshot](https://github.com/your-username/your-repository/blob/master/assets/logo.png)
 
 ## Project Overview
 
@@ -15,7 +16,7 @@ This Flutter project showcases a stunning user interface with a Parallax Effect.
 ## Connect with Me
 
 - **Instagram:** [@codingwithsouhail](https://www.instagram.com/codingwithsouhail/)
-- **GitHub:** [My GitHub Profile](https://github.com/SOUHAILBENBRIK)
+- **GitHub:** [SOUHAILBENBRIK](https://github.com/SOUHAILBENBRIK)
 
 ## How to Run
 
